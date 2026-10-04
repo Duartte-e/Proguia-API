@@ -1,0 +1,13 @@
+{
+  "name": "proguia-api",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de usuários e cursos - Proguia",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["express", "sqlserver", "api", "proguia"],
+  "author": "",
+  "license": "ISC"
+}
